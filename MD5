@@ -1,6 +1,7 @@
-96a1ebc133c5810c3d36f94cdac69511 *DESCRIPTION
+202d4bfb411ab17214a55c3a477b77e2 *DESCRIPTION
 f30bfafa968c65d849489c1ba619479f *LICENSE
 ff02edd2348764a4cb189d4570f38401 *NAMESPACE
-d82042016a81ce7589dc848faad3fa91 *R/format.R
-51c87f2be0484d66044818eb82e17de0 *man/contat-two-strings.Rd
-4d0b46981bd2c5d2a5f0a72e1b87b01d *man/format-string.Rd
+2ed6e46de8d0461a5c3c9431693bbdcc *R/format.R
+97d7c5ece24ebfae5655af4273a431cd *README.md
+748313309c8f3dc83869163168c8f3e4 *man/binary-string-concat.Rd
+40276f9ddf1252196c8fd100aa86afcc *man/format-string.Rd
